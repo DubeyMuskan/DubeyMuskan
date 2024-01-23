@@ -2,12 +2,12 @@
 
 preview
 <h1 align="center">Hi 👋, I'm Muskan Dubey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 <img align = "right" all = "coding" width ="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeymuskan&label=Profile%20views&color=0e75b6&style=flat" alt="dubeymuskan" /> </p>
 
-- 💬 Ask me about **HTML,CSS,js React js, Node js, Express js**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **muskandubeyece@gmsail.com**
 
